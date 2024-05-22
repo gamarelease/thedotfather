@@ -1,0 +1,4 @@
+[submodule "internal/antidot"]
+	path = internal/antidot
+	url = git@github.com:leogama/antidot
+	branch = thedot
